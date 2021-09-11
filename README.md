@@ -1,2 +1,2 @@
 # First-Project-
-This is my first project - Maps 
+This is my first project 
